@@ -1,0 +1,8 @@
+h1~p{
+    color: red;
+}
+p~p{
+    background-color: green;
+    display: inline;
+    margin: 7px;
+}
